@@ -3,7 +3,7 @@
 *The editor is designed for writers who want AI-assisted editing while maintaining full control over their content, with an intuitive interface that makes professional editing accessible.*
 
 ---
-![hero](hero.png)
+![hero](hero.PNG)
 ---
 
 ## 📝 Rich Text Editing
